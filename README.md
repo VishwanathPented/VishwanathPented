@@ -4,7 +4,7 @@
 
 I'm a passionate about learning new technologies and adapting to new trends.
 
-* 🔭 I’m currently working as **Java Full Stact Tarainee**.
+* 🔭 I’m currently working as **Java Full Stact Trainee**.
 * 🌱 I’m currently learning **Java, Springboot, Hibernate**.
 * ⚡ Fun fact: **I love creating things**.
 
@@ -24,7 +24,7 @@ Here are some of the technologies I frequently use or work with:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=VishwanathPented&show_icons=true&theme=dark&hide_border=true" alt="Your GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=vue&hide_border=true" alt="Your Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwanathPented&layout=compact&theme=vue&hide_border=true" alt="Your Top Languages" />
 </p>
 
 ### 📫 Connect with Me
